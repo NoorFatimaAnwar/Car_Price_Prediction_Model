@@ -62,7 +62,7 @@ python src/predict.py
 Open the `notebooks` folder and run each cell one by one in order
 
 ### 4. Interactive Prediction (Jupyter Widgets)
-Inside the notebook, you can use ipywidgets with dropdowns and sliders to get real-time predictions.
+  ** Inside the notebook, you can use ipywidgets with dropdowns and sliders to get real-time predictions.**
 ---
 ## 📈 Models Implemented
 
@@ -83,3 +83,24 @@ Inside the notebook, you can use ipywidgets with dropdowns and sliders to get re
 - Mean Squared Error (MSE)
 
 - R² Score
+
+---
+## 🛠️ Requirements
+
+- Python 3.8+
+
+- pandas, numpy, scikit-learn, matplotlib, seaborn
+
+- ipywidgets (for interactive UI)
+---
+## 📌 Future Improvements
+
+- Deploy as a Flask/Django web app
+
+- Add Streamlit app for interactive UI
+---
+## 👩‍💻 Author
+
+- Developed by Noor Fatima ✨
+
+- If you like this project, don’t forget to ⭐ the repo!
