@@ -14,16 +14,15 @@ This project demonstrates a **complete ML pipeline**:
 ## 📂 Project Structure  
 
 ├── notebooks/ # Jupyter notebooks for exploration & experiments  
-│ ├── 01_exploration.ipynb  
-│ ├── 02_preprocessing.ipynb  
-│ └── 03_modeling.ipynb  
+│  └── car_price_prediction.ipynb  
+  
 
 ├── src/ # Reusable Python scripts  
 │ ├── preprocessing.py # Outlier removal, encoding, scaling  
 │ ├── modeling.py # Train & evaluate ML models  
 │ └── predict.py # Predict car prices with trained model  
 
-├── data/ # Dataset (not included in repo, add here)  
+├── data/ # Dataset  
 
 └── README.md # Project documentation  
 
@@ -54,7 +53,7 @@ A machine learning project to predict the **selling price of used cars** based o
 Open the `src` folder and run all python file one by one using terminal command like this for all python files:
 ```bash
 python src/predict.py
-
+```
 - **Preprocessing.py**: Data cleaning & preprocessing.
 - **Modeling.py**: Train & evaluate models.
 - **Predict.py**: Predict for user inputs.
