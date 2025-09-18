@@ -14,7 +14,7 @@ This project demonstrates a **complete ML pipeline**:
 ## 📂 Project Structure  
 
 ├── notebooks/ # Jupyter notebooks for exploration & experiments  
-│  └── car_price_prediction.ipynb  
+│  └── car_price_prediction.ipynb # For Exporation and Training
   
 
 ├── src/ # Reusable Python scripts  
@@ -62,7 +62,8 @@ python src/predict.py
 Open the `notebooks` folder and run each cell one by one in order
 
 ### 4. Interactive Prediction (Jupyter Widgets)
-  ** Inside the notebook, you can use ipywidgets with dropdowns and sliders to get real-time predictions.**
+ Inside the notebook, you can use ipywidgets to input details with dropdowns and sliders and get real-time predictions.
+ 
 ---
 ## 📈 Models Implemented
 
