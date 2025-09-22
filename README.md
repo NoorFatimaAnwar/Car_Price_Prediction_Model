@@ -39,11 +39,6 @@ The dataset includes the following features:
 - **Transmission**: The transmission type of the car (e.g., Manual, Automatic).
 - **Owner**: The number of previous owners of the car.
 - **Selling Price**: The target variable, representing the price at which the car is being sold (in lakhs).
-
-# 🚗 Car Price Prediction
-
-A machine learning project to predict the **selling price of used cars** based on features such as brand, kilometers driven, fuel type, and more.  
-
 ---
 
 ## 🚀 Usage
